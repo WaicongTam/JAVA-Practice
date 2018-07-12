@@ -14,7 +14,7 @@ public class IOTest {
 
             int a = box.height;
             int b = box.width;
-            
+             
             System.out.println(a);
             System.out.println(b);
         } catch(IOException ex) {
